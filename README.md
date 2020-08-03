@@ -5,3 +5,7 @@ The implementation code of "A Hybrid User Similarity Model for Collaborative Fil
 # Environment
 Python 3.7.X
 
+## Parameters
+Sigma
+K  
+
